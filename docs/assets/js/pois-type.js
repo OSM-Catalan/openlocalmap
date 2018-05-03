@@ -259,7 +259,7 @@ var pois = {
     },
 
     window_construction: {
-	name: 'Al·lumini',
+	name: 'Alumini',
 	query: '[craft=window_construction]',
 	iconName: 'glazer'
     },
